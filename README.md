@@ -1,4 +1,4 @@
-# Aniket Pathak's Resume
+# Aniket Pathak Resume
 
 Hey there! This is the resume of Aniket Pathak. I'm an IT engineer who's really into full-stack web development. I've done a course from AlmaBetter and know my way around JavaScript,React.js, C++, and data structures. I've also got some experience from an internship at MRSAC – Nagpur, where I worked on some cool stuff like spatial databases and flood detection using satellite imagery.
 
